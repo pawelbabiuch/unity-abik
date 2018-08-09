@@ -28,5 +28,4 @@ alt="wideo prezentujace" border="10" /></a>
 
 #
 
-<p align='center'>Bonus!</p>
-[Dancing Abik](https://www.youtube.com/watch?v=6iWd9aWSAbc)
+<p align='center'>Bonus! <a href='https://www.youtube.com/watch?v=6iWd9aWSAbc' > Dancing Abik</a></p>
