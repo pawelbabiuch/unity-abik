@@ -3,7 +3,7 @@ Aplikacja mająca za zadanie wprowadzić wprowadzić w świat programowania najm
 
 Gra, w której wcielamy się w programistę, mającego na celu zaprogramować Abika (tytułowego robota) ma za zadanie nauczyć młode osoby podstaw programowania. Projekt zrealizowany na potrzeby studiów i zawiera dla protptypu tylko jeden poziom. Wszelakie grafiki oraz dźwięki zaprezentowane w projekcie nie są mojego autorstwa.
 
-## Wykorzystana technologia:
+## Wykorzystana technologia
 - [Silnik graficzny Unity](https://unity3d.com/) (w wersji piątej)
 
 ## Zrzuty ekranu
